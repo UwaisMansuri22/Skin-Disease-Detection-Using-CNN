@@ -1,5 +1,7 @@
 # Skin-Disease-Detection-Using-CNN
 
+![Alt Text](/Users/uwaismansuri/Desktop/Workspace/Skin-Disease-Detection-Using-CNN/Skin_Disease.avif)
+
 ## Overview
 
 Dermatology is one of the most challenging domains in medical diagnosis due to the complexity and variability of skin conditions. Traditional diagnosis often relies on a dermatologist's experience and extensive testing, leading to varying results and time delays. To address these challenges, this project proposes an **Automated Image-Based Dermatology Diagnosis System** that leverages machine learning techniques to analyze and classify skin diseases efficiently and accurately.
