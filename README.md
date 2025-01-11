@@ -84,15 +84,6 @@ This system utilizes advanced image processing and classification methods to aut
 
 ---
 
-## Clone the repo
-
-Clone the repository:
-      ```bash
-      git clone https://github.com/UwaisMansuri22/Skin-Disease-Detection-Using-CNN.git
-      cd your-repo-folder
-
----
-
 ## Dataset
 
 The system relies on publicly available datasets such as:  
@@ -111,3 +102,14 @@ Contributions to enhance this project are welcome! Feel free to submit issues, f
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
+## Clone the repo
+
+Clone the repository:
+   ```bash
+   git clone https://github.com/UwaisMansuri22/Skin-Disease-Detection-Using-CNN.git
+   cd your-repo-folder
+
+---
