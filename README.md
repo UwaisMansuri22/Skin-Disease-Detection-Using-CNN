@@ -111,5 +111,3 @@ Clone the repository:
    ```bash
    git clone https://github.com/UwaisMansuri22/Skin-Disease-Detection-Using-CNN.git
    cd your-repo-folder
-
----
