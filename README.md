@@ -1,6 +1,6 @@
 # Skin-Disease-Detection-Using-CNN
 
-![Alt Text](/Users/uwaismansuri/Desktop/Workspace/Skin-Disease-Detection-Using-CNN/Skin_Disease.avif)
+![UI](https://github.com/user-attachments/assets/3f43b2f4-23ac-41e8-84db-40e33a1daf33)
 
 ## Overview
 
