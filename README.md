@@ -1,7 +1,5 @@
 # Skin-Disease-Detection-Using-CNN
 
-# Automated Dermatology Diagnosis System
-
 ## Overview
 
 Dermatology is one of the most challenging domains in medical diagnosis due to the complexity and variability of skin conditions. Traditional diagnosis often relies on a dermatologist's experience and extensive testing, leading to varying results and time delays. To address these challenges, this project proposes an **Automated Image-Based Dermatology Diagnosis System** that leverages machine learning techniques to analyze and classify skin diseases efficiently and accurately.
@@ -86,9 +84,28 @@ This system utilizes advanced image processing and classification methods to aut
 
 ---
 
-## How to Use
+## Clone the repo
 
-1. Clone the repository:  
+   Clone the repository:  
    ```bash
-   git clone https://github.com/your-repo-url.git
+   git clone https://github.com/UwaisMansuri22/Skin-Disease-Detection-Using-CNN.git
    cd your-repo-folder
+
+## Dataset
+
+The system relies on publicly available datasets such as:  
+- **ISIC (International Skin Imaging Collaboration)**  
+- **HAM10000 Dataset**  
+These datasets provide diverse and well-annotated skin lesion images, ensuring accurate training and evaluation.
+
+---
+
+## Contributions
+
+Contributions to enhance this project are welcome! Feel free to submit issues, feature requests, or pull requests via GitHub.
+
+---
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
