@@ -87,9 +87,10 @@ This system utilizes advanced image processing and classification methods to aut
 ## Clone the repo
 
    Clone the repository:  
-   ```bash
-   git clone https://github.com/UwaisMansuri22/Skin-Disease-Detection-Using-CNN.git
-   cd your-repo-folder
+      ```bash
+      git clone https://github.com/UwaisMansuri22/Skin-Disease-Detection-Using-CNN.git
+      cd your-repo-folder
+
 ---
 
 ## Dataset
