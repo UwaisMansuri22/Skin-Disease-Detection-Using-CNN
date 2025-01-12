@@ -250,6 +250,7 @@ def grosp():
     imglabel1.config(image="")
 
     imglabel2.config(image="")
+    
 
 
 bi1 = Button(window, text='BROWSE IMAGE', width=14, borderwidth=1, bg='cyan', fg='gray1', command=ipim,
